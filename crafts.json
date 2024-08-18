@@ -1,0 +1,2964 @@
+{
+    "Ring": [
+        {
+            "stat_id": "fire_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "FireAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "cold_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "ColdAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "lightning_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "LightningAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "base_cold_damage_resistance_%",
+            "value": 28,
+            "groups": [
+                "ColdResistance"
+            ],
+            "blocked_by": [
+                "of the Inuit",
+                "of the Seal",
+                "of Puhuarte",
+                "of the Penguin",
+                "of Vestments",
+                "of the Walrus",
+                "of the Ice",
+                "of the Beast",
+                "of Haast",
+                "of the Polar Bear",
+                "of Craft",
+                "of the Yeti"
+            ]
+        },
+        {
+            "stat_id": "base_fire_damage_resistance_%",
+            "value": 28,
+            "groups": [
+                "FireResistance"
+            ],
+            "blocked_by": [
+                "of the Pyre",
+                "of the Magma",
+                "of Puhuarte",
+                "of the Whelpling",
+                "of the Salamander",
+                "of the Dragon",
+                "of the Volcano",
+                "of Craft",
+                "of Tzteosh",
+                "of the Furnace",
+                "of the Kiln",
+                "of the Drake"
+            ]
+        },
+        {
+            "stat_id": "base_lightning_damage_resistance_%",
+            "value": 28,
+            "groups": [
+                "LightningResistance"
+            ],
+            "blocked_by": [
+                "of Puhuarte",
+                "of the Tempest",
+                "of Ephij",
+                "of the Cloud",
+                "of Craft",
+                "of the Thunderhead",
+                "of the Maelstrom",
+                "of the Lightning",
+                "of Grounding",
+                "of the Storm",
+                "of the Squall"
+            ]
+        },
+        {
+            "stat_id": "cold_and_lightning_damage_resistance_%",
+            "value": 16,
+            "groups": [
+                "ColdAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Shelter",
+                "of Craft",
+                "of the Thundersnow"
+            ]
+        },
+        {
+            "stat_id": "fire_and_cold_damage_resistance_%",
+            "value": 16,
+            "groups": [
+                "FireAndColdResistance"
+            ],
+            "blocked_by": [
+                "of the Chimaera",
+                "of Craft",
+                "of the Hearth"
+            ]
+        },
+        {
+            "stat_id": "fire_and_lightning_damage_resistance_%",
+            "value": 16,
+            "groups": [
+                "FireAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Insulation",
+                "of Craft",
+                "of the Ashcloud"
+            ]
+        },
+        {
+            "stat_id": "base_resist_all_elements_%",
+            "value": 12,
+            "groups": [
+                "AllResistances"
+            ],
+            "blocked_by": [
+                "of Resistance",
+                "of the Crystal",
+                "of the Elder",
+                "of the Conquest",
+                "of the Span",
+                "of the Kaleidoscope",
+                "of Variegation",
+                "of Craft",
+                "of the Rainbow",
+                "of the Prism",
+                "of the Elevated Conquest"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Pupil",
+                "of the Brute",
+                "of the Goliath",
+                "of the Philosopher",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Prodigy",
+                "of the Student",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Virtuoso",
+                "of the Gorilla",
+                "of the Titan",
+                "of the Wrestler",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Intelligence",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Leopard",
+                "of the Pupil",
+                "of the Philosopher",
+                "of Craft",
+                "of the Panther",
+                "of the Prodigy",
+                "of the Student",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Blur",
+                "of the Virtuoso",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_dexterity",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Leopard",
+                "of the Brute",
+                "of the Goliath",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Panther",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Blur",
+                "of the Gorilla",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Fox",
+                "of Strength",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind"
+            ]
+        },
+        {
+            "stat_id": "additional_strength",
+            "value": 30,
+            "groups": [
+                "Strength"
+            ],
+            "blocked_by": [
+                "of the Gorilla",
+                "of the Brute",
+                "of the Goliath",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Godslayer",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Leviathan",
+                "of the Gods"
+            ]
+        },
+        {
+            "stat_id": "additional_intelligence",
+            "value": 30,
+            "groups": [
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of Intelligence",
+                "of the Augur",
+                "of the Virtuoso",
+                "of the Pupil",
+                "of the Philosopher",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Prodigy",
+                "of the Student",
+                "of the Polymath",
+                "of the Savant",
+                "of the Sage",
+                "of the Genius"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity",
+            "value": 30,
+            "groups": [
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Blur",
+                "of the Leopard",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Wind",
+                "of Craft",
+                "of the Order",
+                "of the Panther"
+            ]
+        },
+        {
+            "stat_id": "additional_all_attributes",
+            "value": 13,
+            "groups": [
+                "AllAttributes"
+            ],
+            "blocked_by": [
+                "of the Sky",
+                "of the Heavens",
+                "of the Universe",
+                "of the Comet",
+                "of the Meteor",
+                "of the Galaxy",
+                "of the Infinite",
+                "of the Clouds",
+                "of the Multiverse",
+                "of Craft",
+                "of Adaption"
+            ]
+        },
+        {
+            "stat_id": "base_maximum_life",
+            "value": 55,
+            "groups": [
+                "IncreasedLife"
+            ],
+            "blocked_by": [
+                "Essences",
+                "Healthy",
+                "Stalwart",
+                "Stout",
+                "Vigorous",
+                "Rotund",
+                "Vital",
+                "Virile",
+                "Robust",
+                "Sanguine",
+                "Hale",
+                "Upgraded",
+                "Chosen",
+                "Prime",
+                "Athlete's",
+                "Fecund",
+                "Rapturous",
+                "Guatelitzi's"
+            ]
+        }
+    ],
+    "Amulet": [
+        {
+            "stat_id": "fire_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "FireAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "cold_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "ColdAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "lightning_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "LightningAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "base_cold_damage_resistance_%",
+            "value": 28,
+            "groups": [
+                "ColdResistance"
+            ],
+            "blocked_by": [
+                "of the Inuit",
+                "of the Seal",
+                "of Puhuarte",
+                "of the Penguin",
+                "of Vestments",
+                "of the Walrus",
+                "of the Ice",
+                "of the Beast",
+                "of Haast",
+                "of the Polar Bear",
+                "of Craft",
+                "of the Yeti"
+            ]
+        },
+        {
+            "stat_id": "base_fire_damage_resistance_%",
+            "value": 28,
+            "groups": [
+                "FireResistance"
+            ],
+            "blocked_by": [
+                "of the Pyre",
+                "of the Magma",
+                "of Puhuarte",
+                "of the Whelpling",
+                "of the Salamander",
+                "of the Dragon",
+                "of the Volcano",
+                "of Craft",
+                "of Tzteosh",
+                "of the Furnace",
+                "of the Kiln",
+                "of the Drake"
+            ]
+        },
+        {
+            "stat_id": "base_lightning_damage_resistance_%",
+            "value": 28,
+            "groups": [
+                "LightningResistance"
+            ],
+            "blocked_by": [
+                "of Puhuarte",
+                "of the Tempest",
+                "of Ephij",
+                "of the Cloud",
+                "of Craft",
+                "of the Thunderhead",
+                "of the Maelstrom",
+                "of the Lightning",
+                "of Grounding",
+                "of the Storm",
+                "of the Squall"
+            ]
+        },
+        {
+            "stat_id": "cold_and_lightning_damage_resistance_%",
+            "value": 16,
+            "groups": [
+                "ColdAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Shelter",
+                "of Craft",
+                "of the Thundersnow"
+            ]
+        },
+        {
+            "stat_id": "fire_and_cold_damage_resistance_%",
+            "value": 16,
+            "groups": [
+                "FireAndColdResistance"
+            ],
+            "blocked_by": [
+                "of the Chimaera",
+                "of Craft",
+                "of the Hearth"
+            ]
+        },
+        {
+            "stat_id": "fire_and_lightning_damage_resistance_%",
+            "value": 16,
+            "groups": [
+                "FireAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Insulation",
+                "of Craft",
+                "of the Ashcloud"
+            ]
+        },
+        {
+            "stat_id": "base_resist_all_elements_%",
+            "value": 12,
+            "groups": [
+                "AllResistances"
+            ],
+            "blocked_by": [
+                "of Resistance",
+                "of the Crystal",
+                "of the Elder",
+                "of the Conquest",
+                "of the Span",
+                "of the Kaleidoscope",
+                "of Variegation",
+                "of Craft",
+                "of the Rainbow",
+                "of the Prism",
+                "of the Elevated Conquest"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Pupil",
+                "of the Brute",
+                "of the Goliath",
+                "of the Philosopher",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Prodigy",
+                "of the Student",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Virtuoso",
+                "of the Gorilla",
+                "of the Titan",
+                "of the Wrestler",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Intelligence",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Leopard",
+                "of the Pupil",
+                "of the Philosopher",
+                "of Craft",
+                "of the Panther",
+                "of the Prodigy",
+                "of the Student",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Blur",
+                "of the Virtuoso",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_dexterity",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Leopard",
+                "of the Brute",
+                "of the Goliath",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Panther",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Blur",
+                "of the Gorilla",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Fox",
+                "of Strength",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind"
+            ]
+        },
+        {
+            "stat_id": "additional_strength",
+            "value": 30,
+            "groups": [
+                "Strength"
+            ],
+            "blocked_by": [
+                "of the Gorilla",
+                "of the Brute",
+                "of the Goliath",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Godslayer",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Leviathan",
+                "of the Gods"
+            ]
+        },
+        {
+            "stat_id": "additional_intelligence",
+            "value": 30,
+            "groups": [
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of Intelligence",
+                "of the Augur",
+                "of the Virtuoso",
+                "of the Pupil",
+                "of the Philosopher",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Prodigy",
+                "of the Student",
+                "of the Polymath",
+                "of the Savant",
+                "of the Sage",
+                "of the Genius"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity",
+            "value": 30,
+            "groups": [
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Blur",
+                "of the Leopard",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Wind",
+                "of Craft",
+                "of the Order",
+                "of the Panther"
+            ]
+        },
+        {
+            "stat_id": "additional_all_attributes",
+            "value": 13,
+            "groups": [
+                "AllAttributes"
+            ],
+            "blocked_by": [
+                "of the Sky",
+                "of the Heavens",
+                "of the Universe",
+                "of the Comet",
+                "of the Meteor",
+                "of the Galaxy",
+                "of the Infinite",
+                "of the Clouds",
+                "of the Multiverse",
+                "of Craft",
+                "of Adaption"
+            ]
+        },
+        {
+            "stat_id": "base_maximum_life",
+            "value": 55,
+            "groups": [
+                "IncreasedLife"
+            ],
+            "blocked_by": [
+                "Essences",
+                "Healthy",
+                "Stalwart",
+                "Stout",
+                "Vigorous",
+                "Rotund",
+                "Vital",
+                "Virile",
+                "Robust",
+                "Sanguine",
+                "Hale",
+                "Upgraded",
+                "Chosen",
+                "Prime",
+                "Athlete's",
+                "Fecund",
+                "Rapturous",
+                "Guatelitzi's"
+            ]
+        }
+    ],
+    "Belt": [
+        {
+            "stat_id": "fire_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "FireAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "cold_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "ColdAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "lightning_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "LightningAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "base_cold_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "ColdResistance"
+            ],
+            "blocked_by": [
+                "of the Inuit",
+                "of the Seal",
+                "of Puhuarte",
+                "of the Penguin",
+                "of Vestments",
+                "of the Walrus",
+                "of the Ice",
+                "of the Beast",
+                "of Haast",
+                "of the Polar Bear",
+                "of Craft",
+                "of the Yeti"
+            ]
+        },
+        {
+            "stat_id": "base_fire_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "FireResistance"
+            ],
+            "blocked_by": [
+                "of the Pyre",
+                "of the Magma",
+                "of Puhuarte",
+                "of the Whelpling",
+                "of the Salamander",
+                "of the Dragon",
+                "of the Volcano",
+                "of Craft",
+                "of Tzteosh",
+                "of the Furnace",
+                "of the Kiln",
+                "of the Drake"
+            ]
+        },
+        {
+            "stat_id": "base_lightning_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "LightningResistance"
+            ],
+            "blocked_by": [
+                "of Puhuarte",
+                "of the Tempest",
+                "of Ephij",
+                "of the Cloud",
+                "of Craft",
+                "of the Thunderhead",
+                "of the Maelstrom",
+                "of the Lightning",
+                "of Grounding",
+                "of the Storm",
+                "of the Squall"
+            ]
+        },
+        {
+            "stat_id": "cold_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "ColdAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Shelter",
+                "of Craft",
+                "of the Thundersnow"
+            ]
+        },
+        {
+            "stat_id": "fire_and_cold_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndColdResistance"
+            ],
+            "blocked_by": [
+                "of the Chimaera",
+                "of Craft",
+                "of the Hearth"
+            ]
+        },
+        {
+            "stat_id": "fire_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Insulation",
+                "of Craft",
+                "of the Ashcloud"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Pupil",
+                "of the Brute",
+                "of the Goliath",
+                "of the Philosopher",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Prodigy",
+                "of the Student",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Virtuoso",
+                "of the Gorilla",
+                "of the Titan",
+                "of the Wrestler",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Intelligence",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Leopard",
+                "of the Pupil",
+                "of the Philosopher",
+                "of Craft",
+                "of the Panther",
+                "of the Prodigy",
+                "of the Student",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Blur",
+                "of the Virtuoso",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_dexterity",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Leopard",
+                "of the Brute",
+                "of the Goliath",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Panther",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Blur",
+                "of the Gorilla",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Fox",
+                "of Strength",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind"
+            ]
+        },
+        {
+            "stat_id": "additional_strength",
+            "value": 30,
+            "groups": [
+                "Strength"
+            ],
+            "blocked_by": [
+                "of the Gorilla",
+                "of the Brute",
+                "of the Goliath",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Godslayer",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Leviathan",
+                "of the Gods"
+            ]
+        },
+        {
+            "stat_id": "base_maximum_life",
+            "value": 55,
+            "groups": [
+                "IncreasedLife"
+            ],
+            "blocked_by": [
+                "Essences",
+                "Healthy",
+                "Stalwart",
+                "Stout",
+                "Vigorous",
+                "Rotund",
+                "Vital",
+                "Virile",
+                "Robust",
+                "Sanguine",
+                "Hale",
+                "Upgraded",
+                "Chosen",
+                "Prime",
+                "Athlete's",
+                "Fecund",
+                "Rapturous",
+                "Guatelitzi's"
+            ]
+        }
+    ],
+    "Body Armour": [
+        {
+            "stat_id": "fire_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "FireAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "cold_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "ColdAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "lightning_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "LightningAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "base_cold_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "ColdResistance"
+            ],
+            "blocked_by": [
+                "of the Inuit",
+                "of the Seal",
+                "of Puhuarte",
+                "of the Penguin",
+                "of Vestments",
+                "of the Walrus",
+                "of the Ice",
+                "of the Beast",
+                "of Haast",
+                "of the Polar Bear",
+                "of Craft",
+                "of the Yeti"
+            ]
+        },
+        {
+            "stat_id": "base_fire_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "FireResistance"
+            ],
+            "blocked_by": [
+                "of the Pyre",
+                "of the Magma",
+                "of Puhuarte",
+                "of the Whelpling",
+                "of the Salamander",
+                "of the Dragon",
+                "of the Volcano",
+                "of Craft",
+                "of Tzteosh",
+                "of the Furnace",
+                "of the Kiln",
+                "of the Drake"
+            ]
+        },
+        {
+            "stat_id": "base_lightning_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "LightningResistance"
+            ],
+            "blocked_by": [
+                "of Puhuarte",
+                "of the Tempest",
+                "of Ephij",
+                "of the Cloud",
+                "of Craft",
+                "of the Thunderhead",
+                "of the Maelstrom",
+                "of the Lightning",
+                "of Grounding",
+                "of the Storm",
+                "of the Squall"
+            ]
+        },
+        {
+            "stat_id": "cold_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "ColdAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Shelter",
+                "of Craft",
+                "of the Thundersnow"
+            ]
+        },
+        {
+            "stat_id": "fire_and_cold_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndColdResistance"
+            ],
+            "blocked_by": [
+                "of the Chimaera",
+                "of Craft",
+                "of the Hearth"
+            ]
+        },
+        {
+            "stat_id": "fire_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Insulation",
+                "of Craft",
+                "of the Ashcloud"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Pupil",
+                "of the Brute",
+                "of the Goliath",
+                "of the Philosopher",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Prodigy",
+                "of the Student",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Virtuoso",
+                "of the Gorilla",
+                "of the Titan",
+                "of the Wrestler",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Intelligence",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Leopard",
+                "of the Pupil",
+                "of the Philosopher",
+                "of Craft",
+                "of the Panther",
+                "of the Prodigy",
+                "of the Student",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Blur",
+                "of the Virtuoso",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_dexterity",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Leopard",
+                "of the Brute",
+                "of the Goliath",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Panther",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Blur",
+                "of the Gorilla",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Fox",
+                "of Strength",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind"
+            ]
+        },
+        {
+            "stat_id": "additional_strength",
+            "value": 30,
+            "groups": [
+                "Strength"
+            ],
+            "blocked_by": [
+                "of the Gorilla",
+                "of the Brute",
+                "of the Goliath",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Godslayer",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Leviathan",
+                "of the Gods"
+            ]
+        },
+        {
+            "stat_id": "additional_intelligence",
+            "value": 30,
+            "groups": [
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of Intelligence",
+                "of the Augur",
+                "of the Virtuoso",
+                "of the Pupil",
+                "of the Philosopher",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Prodigy",
+                "of the Student",
+                "of the Polymath",
+                "of the Savant",
+                "of the Sage",
+                "of the Genius"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity",
+            "value": 30,
+            "groups": [
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Blur",
+                "of the Leopard",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Wind",
+                "of Craft",
+                "of the Order",
+                "of the Panther"
+            ]
+        },
+        {
+            "stat_id": "additional_all_attributes",
+            "value": 13,
+            "groups": [
+                "AllAttributes"
+            ],
+            "blocked_by": [
+                "of the Sky",
+                "of the Heavens",
+                "of the Universe",
+                "of the Comet",
+                "of the Meteor",
+                "of the Galaxy",
+                "of the Infinite",
+                "of the Clouds",
+                "of the Multiverse",
+                "of Craft",
+                "of Adaption"
+            ]
+        },
+        {
+            "stat_id": "base_maximum_life",
+            "value": 85,
+            "groups": [
+                "IncreasedLife"
+            ],
+            "blocked_by": [
+                "Essences",
+                "Healthy",
+                "Stalwart",
+                "Stout",
+                "Vigorous",
+                "Rotund",
+                "Vital",
+                "Virile",
+                "Robust",
+                "Sanguine",
+                "Hale",
+                "Upgraded",
+                "Chosen",
+                "Prime",
+                "Athlete's",
+                "Fecund",
+                "Rapturous",
+                "Guatelitzi's"
+            ]
+        },
+        {
+            "stat_id": "base_spell_suppression_chance_%",
+            "value": 10,
+            "groups": [
+                "ChanceToSuppressSpells"
+            ],
+            "blocked_by": [
+                "of Haze",
+                "of Elevated Shaping",
+                "of Rebuttal",
+                "of Abjuration",
+                "of Craft",
+                "of Snuffing",
+                "of Elevated Redemption",
+                "of Fog",
+                "of Suppression",
+                "of Revoking",
+                "of the Elder",
+                "of the Elevated Elder",
+                "of Mist",
+                "of the Essence",
+                "of Invocations",
+                "of Shaping",
+                "of Nullification",
+                "of Redemption",
+                "Chosen",
+                "of Incantations",
+                "of Prayers"
+            ]
+        }
+    ],
+    "Boots": [
+        {
+            "stat_id": "fire_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "FireAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "cold_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "ColdAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "lightning_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "LightningAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "base_cold_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "ColdResistance"
+            ],
+            "blocked_by": [
+                "of the Inuit",
+                "of the Seal",
+                "of Puhuarte",
+                "of the Penguin",
+                "of Vestments",
+                "of the Walrus",
+                "of the Ice",
+                "of the Beast",
+                "of Haast",
+                "of the Polar Bear",
+                "of Craft",
+                "of the Yeti"
+            ]
+        },
+        {
+            "stat_id": "base_fire_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "FireResistance"
+            ],
+            "blocked_by": [
+                "of the Pyre",
+                "of the Magma",
+                "of Puhuarte",
+                "of the Whelpling",
+                "of the Salamander",
+                "of the Dragon",
+                "of the Volcano",
+                "of Craft",
+                "of Tzteosh",
+                "of the Furnace",
+                "of the Kiln",
+                "of the Drake"
+            ]
+        },
+        {
+            "stat_id": "base_lightning_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "LightningResistance"
+            ],
+            "blocked_by": [
+                "of Puhuarte",
+                "of the Tempest",
+                "of Ephij",
+                "of the Cloud",
+                "of Craft",
+                "of the Thunderhead",
+                "of the Maelstrom",
+                "of the Lightning",
+                "of Grounding",
+                "of the Storm",
+                "of the Squall"
+            ]
+        },
+        {
+            "stat_id": "cold_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "ColdAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Shelter",
+                "of Craft",
+                "of the Thundersnow"
+            ]
+        },
+        {
+            "stat_id": "fire_and_cold_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndColdResistance"
+            ],
+            "blocked_by": [
+                "of the Chimaera",
+                "of Craft",
+                "of the Hearth"
+            ]
+        },
+        {
+            "stat_id": "fire_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Insulation",
+                "of Craft",
+                "of the Ashcloud"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Pupil",
+                "of the Brute",
+                "of the Goliath",
+                "of the Philosopher",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Prodigy",
+                "of the Student",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Virtuoso",
+                "of the Gorilla",
+                "of the Titan",
+                "of the Wrestler",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Intelligence",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Leopard",
+                "of the Pupil",
+                "of the Philosopher",
+                "of Craft",
+                "of the Panther",
+                "of the Prodigy",
+                "of the Student",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Blur",
+                "of the Virtuoso",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_dexterity",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Leopard",
+                "of the Brute",
+                "of the Goliath",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Panther",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Blur",
+                "of the Gorilla",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Fox",
+                "of Strength",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind"
+            ]
+        },
+        {
+            "stat_id": "additional_strength",
+            "value": 30,
+            "groups": [
+                "Strength"
+            ],
+            "blocked_by": [
+                "of the Gorilla",
+                "of the Brute",
+                "of the Goliath",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Godslayer",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Leviathan",
+                "of the Gods"
+            ]
+        },
+        {
+            "stat_id": "additional_intelligence",
+            "value": 30,
+            "groups": [
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of Intelligence",
+                "of the Augur",
+                "of the Virtuoso",
+                "of the Pupil",
+                "of the Philosopher",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Prodigy",
+                "of the Student",
+                "of the Polymath",
+                "of the Savant",
+                "of the Sage",
+                "of the Genius"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity",
+            "value": 30,
+            "groups": [
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Blur",
+                "of the Leopard",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Wind",
+                "of Craft",
+                "of the Order",
+                "of the Panther"
+            ]
+        },
+        {
+            "stat_id": "additional_all_attributes",
+            "value": 13,
+            "groups": [
+                "AllAttributes"
+            ],
+            "blocked_by": [
+                "of the Sky",
+                "of the Heavens",
+                "of the Universe",
+                "of the Comet",
+                "of the Meteor",
+                "of the Galaxy",
+                "of the Infinite",
+                "of the Clouds",
+                "of the Multiverse",
+                "of Craft",
+                "of Adaption"
+            ]
+        },
+        {
+            "stat_id": "base_maximum_life",
+            "value": 70,
+            "groups": [
+                "IncreasedLife"
+            ],
+            "blocked_by": [
+                "Essences",
+                "Healthy",
+                "Stalwart",
+                "Stout",
+                "Vigorous",
+                "Rotund",
+                "Vital",
+                "Virile",
+                "Robust",
+                "Sanguine",
+                "Hale",
+                "Upgraded",
+                "Chosen",
+                "Prime",
+                "Athlete's",
+                "Fecund",
+                "Rapturous",
+                "Guatelitzi's"
+            ]
+        },
+        {
+            "stat_id": "base_movement_velocity_+%",
+            "value": 24,
+            "groups": [
+                "MovementVelocity"
+            ],
+            "blocked_by": [
+                "Sprinter's",
+                "Gazelle's",
+                "Essences",
+                "Intruding",
+                "Stallion's",
+                "Swift",
+                "Invading",
+                "Hellion's",
+                "Runner's",
+                "Cheetah's",
+                "Jogger's",
+                "Upgraded",
+                "The Shaper's",
+                "Storming",
+                "of Redemption",
+                "of Shaping",
+                "Quickening",
+                "Chosen",
+                "Hunter's",
+                "Matatl's",
+                "Tresspassing"
+            ]
+        },
+        {
+            "stat_id": "base_spell_suppression_chance_%",
+            "value": 6,
+            "groups": [
+                "ChanceToSuppressSpells"
+            ],
+            "blocked_by": [
+                "of Haze",
+                "of Elevated Shaping",
+                "of Rebuttal",
+                "of Abjuration",
+                "of Craft",
+                "of Snuffing",
+                "of Elevated Redemption",
+                "of Fog",
+                "of Suppression",
+                "of Revoking",
+                "of the Elder",
+                "of the Elevated Elder",
+                "of Mist",
+                "of the Essence",
+                "of Invocations",
+                "of Shaping",
+                "of Nullification",
+                "of Redemption",
+                "Chosen",
+                "of Incantations",
+                "of Prayers"
+            ]
+        }
+    ],
+    "Gloves": [
+        {
+            "stat_id": "fire_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "FireAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "cold_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "ColdAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "lightning_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "LightningAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "base_cold_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "ColdResistance"
+            ],
+            "blocked_by": [
+                "of the Inuit",
+                "of the Seal",
+                "of Puhuarte",
+                "of the Penguin",
+                "of Vestments",
+                "of the Walrus",
+                "of the Ice",
+                "of the Beast",
+                "of Haast",
+                "of the Polar Bear",
+                "of Craft",
+                "of the Yeti"
+            ]
+        },
+        {
+            "stat_id": "base_fire_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "FireResistance"
+            ],
+            "blocked_by": [
+                "of the Pyre",
+                "of the Magma",
+                "of Puhuarte",
+                "of the Whelpling",
+                "of the Salamander",
+                "of the Dragon",
+                "of the Volcano",
+                "of Craft",
+                "of Tzteosh",
+                "of the Furnace",
+                "of the Kiln",
+                "of the Drake"
+            ]
+        },
+        {
+            "stat_id": "base_lightning_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "LightningResistance"
+            ],
+            "blocked_by": [
+                "of Puhuarte",
+                "of the Tempest",
+                "of Ephij",
+                "of the Cloud",
+                "of Craft",
+                "of the Thunderhead",
+                "of the Maelstrom",
+                "of the Lightning",
+                "of Grounding",
+                "of the Storm",
+                "of the Squall"
+            ]
+        },
+        {
+            "stat_id": "cold_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "ColdAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Shelter",
+                "of Craft",
+                "of the Thundersnow"
+            ]
+        },
+        {
+            "stat_id": "fire_and_cold_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndColdResistance"
+            ],
+            "blocked_by": [
+                "of the Chimaera",
+                "of Craft",
+                "of the Hearth"
+            ]
+        },
+        {
+            "stat_id": "fire_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Insulation",
+                "of Craft",
+                "of the Ashcloud"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Pupil",
+                "of the Brute",
+                "of the Goliath",
+                "of the Philosopher",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Prodigy",
+                "of the Student",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Virtuoso",
+                "of the Gorilla",
+                "of the Titan",
+                "of the Wrestler",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Intelligence",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Leopard",
+                "of the Pupil",
+                "of the Philosopher",
+                "of Craft",
+                "of the Panther",
+                "of the Prodigy",
+                "of the Student",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Blur",
+                "of the Virtuoso",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_dexterity",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Leopard",
+                "of the Brute",
+                "of the Goliath",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Panther",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Blur",
+                "of the Gorilla",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Fox",
+                "of Strength",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind"
+            ]
+        },
+        {
+            "stat_id": "additional_strength",
+            "value": 30,
+            "groups": [
+                "Strength"
+            ],
+            "blocked_by": [
+                "of the Gorilla",
+                "of the Brute",
+                "of the Goliath",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Godslayer",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Leviathan",
+                "of the Gods"
+            ]
+        },
+        {
+            "stat_id": "additional_intelligence",
+            "value": 30,
+            "groups": [
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of Intelligence",
+                "of the Augur",
+                "of the Virtuoso",
+                "of the Pupil",
+                "of the Philosopher",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Prodigy",
+                "of the Student",
+                "of the Polymath",
+                "of the Savant",
+                "of the Sage",
+                "of the Genius"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity",
+            "value": 30,
+            "groups": [
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Blur",
+                "of the Leopard",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Wind",
+                "of Craft",
+                "of the Order",
+                "of the Panther"
+            ]
+        },
+        {
+            "stat_id": "additional_all_attributes",
+            "value": 13,
+            "groups": [
+                "AllAttributes"
+            ],
+            "blocked_by": [
+                "of the Sky",
+                "of the Heavens",
+                "of the Universe",
+                "of the Comet",
+                "of the Meteor",
+                "of the Galaxy",
+                "of the Infinite",
+                "of the Clouds",
+                "of the Multiverse",
+                "of Craft",
+                "of Adaption"
+            ]
+        },
+        {
+            "stat_id": "base_maximum_life",
+            "value": 70,
+            "groups": [
+                "IncreasedLife"
+            ],
+            "blocked_by": [
+                "Essences",
+                "Healthy",
+                "Stalwart",
+                "Stout",
+                "Vigorous",
+                "Rotund",
+                "Vital",
+                "Virile",
+                "Robust",
+                "Sanguine",
+                "Hale",
+                "Upgraded",
+                "Chosen",
+                "Prime",
+                "Athlete's",
+                "Fecund",
+                "Rapturous",
+                "Guatelitzi's"
+            ]
+        },
+        {
+            "stat_id": "base_spell_suppression_chance_%",
+            "value": 6,
+            "groups": [
+                "ChanceToSuppressSpells"
+            ],
+            "blocked_by": [
+                "of Haze",
+                "of Elevated Shaping",
+                "of Rebuttal",
+                "of Abjuration",
+                "of Craft",
+                "of Snuffing",
+                "of Elevated Redemption",
+                "of Fog",
+                "of Suppression",
+                "of Revoking",
+                "of the Elder",
+                "of the Elevated Elder",
+                "of Mist",
+                "of the Essence",
+                "of Invocations",
+                "of Shaping",
+                "of Nullification",
+                "of Redemption",
+                "Chosen",
+                "of Incantations",
+                "of Prayers"
+            ]
+        }
+    ],
+    "Helmet": [
+        {
+            "stat_id": "fire_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "FireAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "cold_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "ColdAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "lightning_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "LightningAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "base_cold_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "ColdResistance"
+            ],
+            "blocked_by": [
+                "of the Inuit",
+                "of the Seal",
+                "of Puhuarte",
+                "of the Penguin",
+                "of Vestments",
+                "of the Walrus",
+                "of the Ice",
+                "of the Beast",
+                "of Haast",
+                "of the Polar Bear",
+                "of Craft",
+                "of the Yeti"
+            ]
+        },
+        {
+            "stat_id": "base_fire_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "FireResistance"
+            ],
+            "blocked_by": [
+                "of the Pyre",
+                "of the Magma",
+                "of Puhuarte",
+                "of the Whelpling",
+                "of the Salamander",
+                "of the Dragon",
+                "of the Volcano",
+                "of Craft",
+                "of Tzteosh",
+                "of the Furnace",
+                "of the Kiln",
+                "of the Drake"
+            ]
+        },
+        {
+            "stat_id": "base_lightning_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "LightningResistance"
+            ],
+            "blocked_by": [
+                "of Puhuarte",
+                "of the Tempest",
+                "of Ephij",
+                "of the Cloud",
+                "of Craft",
+                "of the Thunderhead",
+                "of the Maelstrom",
+                "of the Lightning",
+                "of Grounding",
+                "of the Storm",
+                "of the Squall"
+            ]
+        },
+        {
+            "stat_id": "cold_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "ColdAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Shelter",
+                "of Craft",
+                "of the Thundersnow"
+            ]
+        },
+        {
+            "stat_id": "fire_and_cold_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndColdResistance"
+            ],
+            "blocked_by": [
+                "of the Chimaera",
+                "of Craft",
+                "of the Hearth"
+            ]
+        },
+        {
+            "stat_id": "fire_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Insulation",
+                "of Craft",
+                "of the Ashcloud"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Pupil",
+                "of the Brute",
+                "of the Goliath",
+                "of the Philosopher",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Prodigy",
+                "of the Student",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Virtuoso",
+                "of the Gorilla",
+                "of the Titan",
+                "of the Wrestler",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Intelligence",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Leopard",
+                "of the Pupil",
+                "of the Philosopher",
+                "of Craft",
+                "of the Panther",
+                "of the Prodigy",
+                "of the Student",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Blur",
+                "of the Virtuoso",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_dexterity",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Leopard",
+                "of the Brute",
+                "of the Goliath",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Panther",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Blur",
+                "of the Gorilla",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Fox",
+                "of Strength",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind"
+            ]
+        },
+        {
+            "stat_id": "additional_strength",
+            "value": 30,
+            "groups": [
+                "Strength"
+            ],
+            "blocked_by": [
+                "of the Gorilla",
+                "of the Brute",
+                "of the Goliath",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Godslayer",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Leviathan",
+                "of the Gods"
+            ]
+        },
+        {
+            "stat_id": "additional_intelligence",
+            "value": 30,
+            "groups": [
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of Intelligence",
+                "of the Augur",
+                "of the Virtuoso",
+                "of the Pupil",
+                "of the Philosopher",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Prodigy",
+                "of the Student",
+                "of the Polymath",
+                "of the Savant",
+                "of the Sage",
+                "of the Genius"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity",
+            "value": 30,
+            "groups": [
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Blur",
+                "of the Leopard",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Wind",
+                "of Craft",
+                "of the Order",
+                "of the Panther"
+            ]
+        },
+        {
+            "stat_id": "additional_all_attributes",
+            "value": 13,
+            "groups": [
+                "AllAttributes"
+            ],
+            "blocked_by": [
+                "of the Sky",
+                "of the Heavens",
+                "of the Universe",
+                "of the Comet",
+                "of the Meteor",
+                "of the Galaxy",
+                "of the Infinite",
+                "of the Clouds",
+                "of the Multiverse",
+                "of Craft",
+                "of Adaption"
+            ]
+        },
+        {
+            "stat_id": "base_maximum_life",
+            "value": 70,
+            "groups": [
+                "IncreasedLife"
+            ],
+            "blocked_by": [
+                "Essences",
+                "Healthy",
+                "Stalwart",
+                "Stout",
+                "Vigorous",
+                "Rotund",
+                "Vital",
+                "Virile",
+                "Robust",
+                "Sanguine",
+                "Hale",
+                "Upgraded",
+                "Chosen",
+                "Prime",
+                "Athlete's",
+                "Fecund",
+                "Rapturous",
+                "Guatelitzi's"
+            ]
+        },
+        {
+            "stat_id": "base_spell_suppression_chance_%",
+            "value": 6,
+            "groups": [
+                "ChanceToSuppressSpells"
+            ],
+            "blocked_by": [
+                "of Haze",
+                "of Elevated Shaping",
+                "of Rebuttal",
+                "of Abjuration",
+                "of Craft",
+                "of Snuffing",
+                "of Elevated Redemption",
+                "of Fog",
+                "of Suppression",
+                "of Revoking",
+                "of the Elder",
+                "of the Elevated Elder",
+                "of Mist",
+                "of the Essence",
+                "of Invocations",
+                "of Shaping",
+                "of Nullification",
+                "of Redemption",
+                "Chosen",
+                "of Incantations",
+                "of Prayers"
+            ]
+        }
+    ],
+    "Shield": [
+        {
+            "stat_id": "fire_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "FireAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "cold_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "ColdAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "lightning_and_chaos_damage_resistance_%",
+            "value": 15,
+            "groups": [
+                "LightningAndChaosDamageResistance"
+            ],
+            "blocked_by": [
+                "of the Order"
+            ]
+        },
+        {
+            "stat_id": "base_cold_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "ColdResistance"
+            ],
+            "blocked_by": [
+                "of the Inuit",
+                "of the Seal",
+                "of Puhuarte",
+                "of the Penguin",
+                "of Vestments",
+                "of the Walrus",
+                "of the Ice",
+                "of the Beast",
+                "of Haast",
+                "of the Polar Bear",
+                "of Craft",
+                "of the Yeti"
+            ]
+        },
+        {
+            "stat_id": "base_fire_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "FireResistance"
+            ],
+            "blocked_by": [
+                "of the Pyre",
+                "of the Magma",
+                "of Puhuarte",
+                "of the Whelpling",
+                "of the Salamander",
+                "of the Dragon",
+                "of the Volcano",
+                "of Craft",
+                "of Tzteosh",
+                "of the Furnace",
+                "of the Kiln",
+                "of the Drake"
+            ]
+        },
+        {
+            "stat_id": "base_lightning_damage_resistance_%",
+            "value": 35,
+            "groups": [
+                "LightningResistance"
+            ],
+            "blocked_by": [
+                "of Puhuarte",
+                "of the Tempest",
+                "of Ephij",
+                "of the Cloud",
+                "of Craft",
+                "of the Thunderhead",
+                "of the Maelstrom",
+                "of the Lightning",
+                "of Grounding",
+                "of the Storm",
+                "of the Squall"
+            ]
+        },
+        {
+            "stat_id": "cold_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "ColdAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Shelter",
+                "of Craft",
+                "of the Thundersnow"
+            ]
+        },
+        {
+            "stat_id": "fire_and_cold_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndColdResistance"
+            ],
+            "blocked_by": [
+                "of the Chimaera",
+                "of Craft",
+                "of the Hearth"
+            ]
+        },
+        {
+            "stat_id": "fire_and_lightning_damage_resistance_%",
+            "value": 20,
+            "groups": [
+                "FireAndLightningResistance"
+            ],
+            "blocked_by": [
+                "of Insulation",
+                "of Craft",
+                "of the Ashcloud"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Pupil",
+                "of the Brute",
+                "of the Goliath",
+                "of the Philosopher",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Prodigy",
+                "of the Student",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Virtuoso",
+                "of the Gorilla",
+                "of the Titan",
+                "of the Wrestler",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity_and_intelligence",
+            "value": 25,
+            "groups": [
+                "Intelligence",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Augur",
+                "of the Leopard",
+                "of the Pupil",
+                "of the Philosopher",
+                "of Craft",
+                "of the Panther",
+                "of the Prodigy",
+                "of the Student",
+                "of the Savant",
+                "of the Sage",
+                "of Intelligence",
+                "of the Genius",
+                "of the Blur",
+                "of the Virtuoso",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind",
+                "of the Polymath"
+            ]
+        },
+        {
+            "stat_id": "additional_strength_and_dexterity",
+            "value": 25,
+            "groups": [
+                "Strength",
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Leopard",
+                "of the Brute",
+                "of the Goliath",
+                "of the Godslayer",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Panther",
+                "of the Leviathan",
+                "of the Gods",
+                "of the Blur",
+                "of the Gorilla",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Fox",
+                "of Strength",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Order",
+                "of the Wind"
+            ]
+        },
+        {
+            "stat_id": "additional_strength",
+            "value": 30,
+            "groups": [
+                "Strength"
+            ],
+            "blocked_by": [
+                "of the Gorilla",
+                "of the Brute",
+                "of the Goliath",
+                "of the Titan",
+                "of the Wrestler",
+                "of the Godslayer",
+                "of Strength",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Bear",
+                "of the Lion",
+                "of the Leviathan",
+                "of the Gods"
+            ]
+        },
+        {
+            "stat_id": "additional_intelligence",
+            "value": 30,
+            "groups": [
+                "Intelligence"
+            ],
+            "blocked_by": [
+                "of Intelligence",
+                "of the Augur",
+                "of the Virtuoso",
+                "of the Pupil",
+                "of the Philosopher",
+                "of the Essence",
+                "of the Order",
+                "of Craft",
+                "of the Prodigy",
+                "of the Student",
+                "of the Polymath",
+                "of the Savant",
+                "of the Sage",
+                "of the Genius"
+            ]
+        },
+        {
+            "stat_id": "additional_dexterity",
+            "value": 30,
+            "groups": [
+                "Dexterity"
+            ],
+            "blocked_by": [
+                "of the Blur",
+                "of the Leopard",
+                "of Dexterity",
+                "of the Falcon",
+                "of the Jaguar",
+                "of the Phantom",
+                "of the Fox",
+                "of the Essence",
+                "of the Lynx",
+                "of the Mongoose",
+                "of the Wind",
+                "of Craft",
+                "of the Order",
+                "of the Panther"
+            ]
+        },
+        {
+            "stat_id": "additional_all_attributes",
+            "value": 13,
+            "groups": [
+                "AllAttributes"
+            ],
+            "blocked_by": [
+                "of the Sky",
+                "of the Heavens",
+                "of the Universe",
+                "of the Comet",
+                "of the Meteor",
+                "of the Galaxy",
+                "of the Infinite",
+                "of the Clouds",
+                "of the Multiverse",
+                "of Craft",
+                "of Adaption"
+            ]
+        },
+        {
+            "stat_id": "base_maximum_life",
+            "value": 70,
+            "groups": [
+                "IncreasedLife"
+            ],
+            "blocked_by": [
+                "Essences",
+                "Healthy",
+                "Stalwart",
+                "Stout",
+                "Vigorous",
+                "Rotund",
+                "Vital",
+                "Virile",
+                "Robust",
+                "Sanguine",
+                "Hale",
+                "Upgraded",
+                "Chosen",
+                "Prime",
+                "Athlete's",
+                "Fecund",
+                "Rapturous",
+                "Guatelitzi's"
+            ]
+        },
+        {
+            "stat_id": "base_spell_suppression_chance_%",
+            "value": 10,
+            "groups": [
+                "ChanceToSuppressSpells"
+            ],
+            "blocked_by": [
+                "of Haze",
+                "of Elevated Shaping",
+                "of Rebuttal",
+                "of Abjuration",
+                "of Craft",
+                "of Snuffing",
+                "of Elevated Redemption",
+                "of Fog",
+                "of Suppression",
+                "of Revoking",
+                "of the Elder",
+                "of the Elevated Elder",
+                "of Mist",
+                "of the Essence",
+                "of Invocations",
+                "of Shaping",
+                "of Nullification",
+                "of Redemption",
+                "Chosen",
+                "of Incantations",
+                "of Prayers"
+            ]
+        }
+    ]
+}

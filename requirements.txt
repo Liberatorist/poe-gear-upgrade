@@ -1,0 +1,4 @@
+pulp
+requests
+ratelimiter
+RePoE-Liberatorist==3.25.0
